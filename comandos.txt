@@ -1,0 +1,3 @@
+javac -cp ".:JDA-5.0.0-alpha.11-withDependencies.jar" MessageListenerExample.java
+
+java -cp .:JDA-5.0.0-alpha.11-withDependencies.jar MessageListenerExample
